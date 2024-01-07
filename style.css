@@ -5,8 +5,14 @@
 .h1{
     display: flex;
     justify-content: space-around;
-    background-color: darkolivegreen;
+    background-color: #322e2d;
     align-items: center;
+    padding: 15px 15px;
+}
+.h0{
+    color: white;
+    width: 130px;
+    height: 35px;
 }
 .h2 ul{
     display: flex;
@@ -38,6 +44,7 @@
     justify-content: space-around;
     align-items: center;
     margin-top: 100px;
+    padding-bottom: 40px;
 }
 .h7{
     width: 300px;
